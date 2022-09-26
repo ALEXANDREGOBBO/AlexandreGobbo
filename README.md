@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Olá!! Me chamo Alexandre Gobbo
+##Olá!! Me chamo Alexandre Gobbo
 
 - 🔭 Hoje eu trabalho com desenvolvimento full-stack
 - 🧠 Em constante aprendizado.
